@@ -1,5 +1,5 @@
 | TESTS | RESULTS | FIX |
-| :------------------: |:--------------------:| :-------------------:| 
+| ------------------ |--------------------| -------------------| 
 | if getFront or removeFront function is called on an empty list 	       	| seg fault       		     		 | check for NULL 			 				| 
 | if destroy function is called more than once                   	       	| program crashes 		     		 | destroy and exit together 				| 
 | if array are too big or too small                                			| overflow          				 | can't take too big or too small numbers	| 
