@@ -2,7 +2,7 @@
 
 > Linked List
 
-[Fraction](https://en.wikipedia.org/wiki/Linked_list) implemented using pointers based on C Algorithms for applications.
+[Linked List](https://en.wikipedia.org/wiki/Linked_list) integer based implementation on C Algorithms for applications.
 
 > Linked list is a linear collection of data elements, called nodes pointing to the next node by means of pointer. Each node is composed of data and a reference to the next node in the sequence.
 
