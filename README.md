@@ -14,7 +14,7 @@ $ git clone https://github.com/minahilikram/adt-linked-list
 
 ## Usage
 
-For an example, see [src/main.c](https://github.com/minahilikram/adt-linked-list/blob/master/src/main.c).
+For an example, see [src/main.c](https://github.com/minahilikram/adt-linked-list/blob/master/src/main.c); to execute see below..
 
 ```sh
 $ cd adt-linked-list/
